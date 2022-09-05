@@ -1,0 +1,18 @@
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\bin\Debug\Latte Ordering System.exe.config
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\bin\Debug\Latte Ordering System.exe
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\bin\Debug\Latte Ordering System.pdb
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\bin\Debug\Latte Ordering System.xml
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte Ordering System.vbprojAssemblyReference.cache
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte_Ordering_System.Resources.resources
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte Ordering System.vbproj.GenerateResource.cache
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte Ordering System.vbproj.CoreCompileInputs.cache
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte Ordering System.exe
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte Ordering System.xml
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte Ordering System.pdb
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\bin\Debug\MySql.Data.dll
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\bin\Debug\MySql.Data.xml
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte Ordering System.vbproj.CopyComplete
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte_Ordering_System.cover.resources
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte_Ordering_System.LatteMenu.resources
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte_Ordering_System.Waiter.resources
+D:\Programs\Visual studio work\Latte Ordering System\Latte Ordering System\obj\Debug\Latte_Ordering_System.Barista.resources

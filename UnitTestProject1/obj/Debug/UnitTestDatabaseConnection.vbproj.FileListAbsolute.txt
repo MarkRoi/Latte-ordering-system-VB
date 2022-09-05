@@ -1,0 +1,24 @@
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\UnitTestProject1.xml
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Latte Ordering System.exe
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\MySql.Data.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Latte Ordering System.pdb
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Latte Ordering System.xml
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Latte Ordering System.exe.config
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\bin\Debug\MySql.Data.xml
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestDatabaseConnection.vbprojAssemblyReference.cache
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestProject1.Resources.resources
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestDatabaseConnection.vbproj.GenerateResource.cache
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestDatabaseConnection.vbproj.CoreCompileInputs.cache
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestDatabaseConnection.vbproj.CopyComplete
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestProject1.xml
+D:\Programs\Visual studio work\Latte Ordering System\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
